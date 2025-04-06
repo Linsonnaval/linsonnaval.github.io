@@ -15,7 +15,8 @@ To be listed
 ### Awards
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
-Department of Energy Recovery Act
+Department of Energy Recovery Act<br>
+<img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br>
 
 ### Publications
 BMJ Quality and Safety
