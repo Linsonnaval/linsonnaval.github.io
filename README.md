@@ -3,22 +3,11 @@
 ## Program and Project Manager
 
   <div class="nav">
-    <a href="#Projects">1</a>
-    <a href="#section2" class="btn">2</a>
-    <a href="#section3" class="btn">3</a>
-    <a href="#section4" class="btn">4</a>
+    <a href="#Projects">Jump to Projects section</a>
+    <a href="#Awards and Publications">Jump to Awards and Publications section</a>
+    <a href="#Recommendations">Jump to Recommendations section</a>
+    <a href="#Miscellaneous Projects">Jump to Miscellaneous Projects section</a>
   </div>
-
-  <div class="section two" id="section2">
-    section 2
-  </div>
-  <div class="section three" id="section3">
-    section 3
-  </div>
-  <div class="section four" id="section4">
-    section 4
-  </div>
-
 
 ### Education
 MBA - Northeastern University<br>
@@ -30,19 +19,20 @@ BA - University of Massachusetts at Amherst
 
 <div class="Projects" id="Projects">
 ### Projects
-To be listed
   </div>
-  
-### Awards
+To be listed
+
+<div class="Awards and Publications" id="Awards and Publications">
+### Awards and Publications
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br>
-
-### Publications
 BMJ Quality and Safety<br>
 <img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br>
+</div>
 
+<div class="Recommendations" id="Recommendations">
 ### Recommendations
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b>
 
@@ -67,7 +57,9 @@ Rachael Shapira
 <b></b>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</b><br><br>
 
 Linson was excellent to work for. He was flexible and always focused on completing the work without burning out. He is always positive and willing to help figure out whatever is blocking the work or resolving a personal issue or things related to benefits. Linson is knowledgeable and quick to understand a technical problem or relate to a personal need.
+</div>
 
+<div class="Miscellaneous Projects" id="Miscellaneous Projects">
 ### Miscellaneous Projects
 
 Wood work
@@ -81,4 +73,6 @@ Softball
 Television
 
 Photography
+
+</div>
 
