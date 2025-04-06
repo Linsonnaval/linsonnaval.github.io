@@ -1,7 +1,7 @@
 # Program and Project Manager
 
 ### Education
-MBA - Northeastern University
+MBA - Northeastern University<br>
 BA - University of Massachusetts at Amherst
 
 ### Resume
