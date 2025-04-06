@@ -11,7 +11,7 @@ BA - University of Massachusetts at Amherst
 To be listed
 
 ### Awards
-Deloitte Collaboration Award
+Deloitte Collaboration Award<br>
 Department of Energy Recovery Act
 
 ### Publications
