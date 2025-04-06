@@ -7,18 +7,26 @@
     <a href="#Miscellaneous Projects">~Jump to Miscellaneous Projects section</a><br>
   </div>
 
+<hr>
+
 <h3>Education</h3>
 MBA - Northeastern University<br>
 BA - University of Massachusetts at Amherst
+
+<hr>
 
 <h3>Resume</h3>
 <a href="Linsonjude Naval Resume 2025.pdf">Link to resume - PDF<br>
 <img src="Resume Screenshot.JPG" alt="Screenshot of resume" width="500"></a><br>
 
+<hr>
+
 <div class="Projects" id="Projects" style="font-size:24px">
 <h3>Projects</h3>
 To be listed<br><br>
 </div>
+
+<hr>
 
 <div class="Awards and Publications" id="Awards and Publications" style="font-size:24px">
 <h3><b>Awards and Publications</b></h3><br>
@@ -30,13 +38,15 @@ BMJ Quality and Safety<br>
 <img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br><br>
 </div>
 
+<hr>
+
 <div class="Recommendations" id="Recommendations" style="font-size:24px">
 <h3><b>Recommendations</b></h3><br>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
-<hr>
+
 <b>Rachael Shapira - Product/Project Manager (reported to Linson)</b><br><br>
 
 To Whom It May Concern: 
@@ -51,11 +61,13 @@ Finally, Linson is an exceptional mentor and cheerleader for his team. This trai
 
 Sincerely, 
 Rachael Shapira
-<hr>
+
 <b>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</b><br><br>
 
 Linson was excellent to work for. He was flexible and always focused on completing the work without burning out. He is always positive and willing to help figure out whatever is blocking the work or resolving a personal issue or things related to benefits. Linson is knowledgeable and quick to understand a technical problem or relate to a personal need.
 </div>
+
+<hr>
 
 <div class="Miscellaneous Projects" id="Miscellaneous Projects" style="font-size:18px">
 <h3><b>Miscellaneous Projects</b></h3></div>
