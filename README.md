@@ -19,8 +19,8 @@ BA - University of Massachusetts at Amherst
 
 <div class="Projects" id="Projects">
 <b>Projects</b>
-</div>
 To be listed<br>
+</div>
 
 <div class="Awards and Publications" id="Awards and Publications">
 <b>Awards and Publications</b><br>
