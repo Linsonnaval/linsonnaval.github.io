@@ -20,7 +20,7 @@ Department of Energy Recovery Act<br>
 
 ### Publications
 BMJ Quality and Safety<br>
-<img src="BMJ.jpg" alt="BMJ article screenshot" width="500"><br>
+<img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br>
 
 ### Recommendations
 To be shared
