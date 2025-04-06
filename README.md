@@ -1,6 +1,6 @@
 # Linsonjude "Linson" Naval
 
-## Program and Project Manager
+## <h2>Program and Project Manager</h>
 
   <div class="nav">
     <a href="#Projects">~Jump to Projects section</a><br>
