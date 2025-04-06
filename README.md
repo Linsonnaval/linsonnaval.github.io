@@ -29,7 +29,7 @@ Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 <hr>
-Rachael Shapira - Product/Project manager (reported to Linson)
+Rachael Shapira - Product/Project manager (reported to Linson)<br>
 
 To Whom It May Concern: 
 
@@ -44,7 +44,7 @@ Finally, Linson is an exceptional mentor and cheerleader for his team. This trai
 Sincerely, 
 Rachael Shapira
 <hr>
-Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)
+Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)<br>
 
 Linson was excellent to work for. He was flexible and always focused on completing the work without burning out. He is always positive and willing to help figure out whatever is blocking the work or resolving a personal issue or things related to benefits. Linson is knowledgeable and quick to understand a technical problem or relate to a personal need.
 
