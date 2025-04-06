@@ -3,10 +3,10 @@
 ## Program and Project Manager
 
   <div class="nav">
-    <a href="#Projects">- Jump to Projects section</a><br>
-    <a href="#Awards and Publications">- Jump to Awards and Publications section</a><br>
-    <a href="#Recommendations">- Jump to Recommendations section</a><br>
-    <a href="#Miscellaneous Projects">- Jump to Miscellaneous Projects section</a><br>
+    <a href="#Projects">~Jump to Projects section</a><br>
+    <a href="#Awards and Publications">~Jump to Awards and Publications section</a><br>
+    <a href="#Recommendations">~Jump to Recommendations section</a><br>
+    <a href="#Miscellaneous Projects">~Jump to Miscellaneous Projects section</a><br>
   </div>
 
 ### Education
@@ -18,9 +18,9 @@ BA - University of Massachusetts at Amherst
 <img src="Resume Screenshot.JPG" alt="Screenshot of resume" width="500"></a><br>
 
 <div class="Projects" id="Projects">
-Projects
-</div><br>
-To be listed
+<b>Projects</b>
+</div>
+To be listed<br>
 
 <div class="Awards and Publications" id="Awards and Publications">
 <b>Awards and Publications</b><br>
