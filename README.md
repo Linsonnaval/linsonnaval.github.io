@@ -23,7 +23,7 @@ BA - University of Massachusetts at Amherst
 To be listed
 
 <div class="Awards and Publications" id="Awards and Publications">
-### Awards and Publications
+<b>Awards and Publications</b>
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
@@ -33,7 +33,7 @@ BMJ Quality and Safety<br>
 </div>
 
 <div class="Recommendations" id="Recommendations">
-### Recommendations
+<b>Recommendations</b>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
