@@ -3,10 +3,10 @@
 ## Program and Project Manager
 
   <div class="nav">
-    <a href="#Projects">Jump to Projects section</a>
-    <a href="#Awards and Publications">Jump to Awards and Publications section</a>
-    <a href="#Recommendations">Jump to Recommendations section</a>
-    <a href="#Miscellaneous Projects">Jump to Miscellaneous Projects section</a>
+    <a href="#Projects">Jump to Projects section</a><br>
+    <a href="#Awards and Publications">Jump to Awards and Publications section</a><br>
+    <a href="#Recommendations">Jump to Recommendations section</a><br>
+    <a href="#Miscellaneous Projects">Jump to Miscellaneous Projects section</a><br>
   </div>
 
 ### Education
@@ -18,12 +18,12 @@ BA - University of Massachusetts at Amherst
 <img src="Resume Screenshot.JPG" alt="Screenshot of resume" width="500"></a><br>
 
 <div class="Projects" id="Projects">
-### Projects
-  </div>
+Projects
+</div><br>
 To be listed
 
 <div class="Awards and Publications" id="Awards and Publications">
-<b>Awards and Publications</b>
+<b>Awards and Publications</b><br>
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
@@ -33,8 +33,8 @@ BMJ Quality and Safety<br>
 </div>
 
 <div class="Recommendations" id="Recommendations">
-<b>Recommendations</b>
-<b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b>
+<b>Recommendations</b><br>
+<b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
