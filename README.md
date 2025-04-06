@@ -1,5 +1,5 @@
-<h1>Linsonjude "Linson" Naval</h1>
-<h2>Program and Project Manager</h2>
+<h3>Linsonjude "Linson" Naval</h3>
+<h3>Program and Project Manager</h3>
   <div class="nav">
     <a href="#Projects">~Jump to Projects section</a><br>
     <a href="#Awards and Publications">~Jump to Awards and Publications section</a><br>
@@ -7,16 +7,16 @@
     <a href="#Miscellaneous Projects">~Jump to Miscellaneous Projects section</a><br>
   </div>
 
-<h2>Education</h2>
+<h3>Education</h3>
 MBA - Northeastern University<br>
 BA - University of Massachusetts at Amherst
 
-<h2>Resume</h2>
+<h3>Resume</h3>
 <a href="Linsonjude Naval Resume 2025.pdf">Link to resume - PDF<br>
 <img src="Resume Screenshot.JPG" alt="Screenshot of resume" width="500"></a><br>
 
 <div class="Projects" id="Projects" style="font-size:24px">
-<h2>Projects</h2><br>
+<h3>Projects</h3><br>
 To be listed<br><br>
 </div>
 
@@ -31,7 +31,7 @@ BMJ Quality and Safety<br>
 </div>
 
 <div class="Recommendations" id="Recommendations" style="font-size:24px">
-<b>Recommendations</b><br><br>
+<h3></h3><b>Recommendations</b></div><h3><br><br>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
@@ -58,7 +58,7 @@ Linson was excellent to work for. He was flexible and always focused on completi
 </div>
 
 <div class="Miscellaneous Projects" id="Miscellaneous Projects" style="font-size:18px">
-<b>Miscellaneous Projects</div</b>
+<h3><b>Miscellaneous Projects</b></h3></div>
 
 Wood work
 
