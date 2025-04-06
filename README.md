@@ -21,7 +21,7 @@ To be listed<br><br>
 </div>
 
 <div class="Awards and Publications" id="Awards and Publications" style="font-size:24px">
-<h3><b>Awards and Publications</b></h3>h3><br><br>
+<h3><b>Awards and Publications</b></h3><br><br>
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
