@@ -5,7 +5,7 @@ MBA - Northeastern University<br>
 BA - University of Massachusetts at Amherst
 
 ### Resume
-To be listed
+Link<img src: blob/main/Linsonjude%20Naval%20Resume%202025.pdf>
 
 ### Projects
 To be listed
