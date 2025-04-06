@@ -1,4 +1,3 @@
-# linsonnaval.github.io
 # Program and Project Manager
 
 ### Education
