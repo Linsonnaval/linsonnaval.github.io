@@ -3,10 +3,10 @@
 ## Program and Project Manager
 
   <div class="nav">
-    <a href="#Projects">Jump to Projects section</a><br>
-    <a href="#Awards and Publications">Jump to Awards and Publications section</a><br>
-    <a href="#Recommendations">Jump to Recommendations section</a><br>
-    <a href="#Miscellaneous Projects">Jump to Miscellaneous Projects section</a><br>
+    <a href="#Projects">- Jump to Projects section</a><br>
+    <a href="#Awards and Publications">- Jump to Awards and Publications section</a><br>
+    <a href="#Recommendations">- Jump to Recommendations section</a><br>
+    <a href="#Miscellaneous Projects">- Jump to Miscellaneous Projects section</a><br>
   </div>
 
 ### Education
@@ -39,7 +39,7 @@ BMJ Quality and Safety<br>
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 <hr>
-<b></b>Rachael Shapira - Product/Project manager (reported to Linson)</b><br><br>
+<b>Rachael Shapira - Product/Project manager (reported to Linson)</b><br><br>
 
 To Whom It May Concern: 
 
@@ -54,13 +54,13 @@ Finally, Linson is an exceptional mentor and cheerleader for his team. This trai
 Sincerely, 
 Rachael Shapira
 <hr>
-<b></b>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</b><br><br>
+<b>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</b><br><br>
 
 Linson was excellent to work for. He was flexible and always focused on completing the work without burning out. He is always positive and willing to help figure out whatever is blocking the work or resolving a personal issue or things related to benefits. Linson is knowledgeable and quick to understand a technical problem or relate to a personal need.
 </div>
 
 <div class="Miscellaneous Projects" id="Miscellaneous Projects">
-### Miscellaneous Projects
+<b>Miscellaneous Projects</div</b>
 
 Wood work
 
