@@ -1,5 +1,5 @@
-<h2>Linsonjude "Linson" Naval</h2><br>
-<h2>Program and Project Manager</h2><br>
+<h2>Linsonjude "Linson" Naval</h2>
+<h2>Program and Project Manager</h2>
   <div class="nav">
     <a href="#Projects">~Jump to Projects section</a><br>
     <a href="#Awards and Publications">~Jump to Awards and Publications section</a><br>
@@ -7,11 +7,11 @@
     <a href="#Miscellaneous Projects">~Jump to Miscellaneous Projects section</a><br>
   </div>
 
-### Education
+<h2>Education</h2>
 MBA - Northeastern University<br>
 BA - University of Massachusetts at Amherst
 
-### Resume
+<h2>Resume</h2>
 <a href="Linsonjude Naval Resume 2025.pdf">Link to resume - PDF<br>
 <img src="Resume Screenshot.JPG" alt="Screenshot of resume" width="500"></a><br>
 
