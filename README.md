@@ -1,6 +1,6 @@
-# Linsonjude "Linson" Naval
+<h2>Linsonjude "Linson" Naval</h2>
 
-<h2>Program and Project Manager</h>
+<h2>Program and Project Manager</h2>
 
   <div class="nav">
     <a href="#Projects">~Jump to Projects section</a><br>
