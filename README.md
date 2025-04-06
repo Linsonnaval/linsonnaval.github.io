@@ -33,7 +33,7 @@ BMJ Quality and Safety<br>
 </div>
 
 <div class="Recommendations" id="Recommendations">
-<b>Recommendations</b><br>
+<b>Recommendations</b><br><br>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
