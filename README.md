@@ -17,12 +17,12 @@ BA - University of Massachusetts at Amherst
 <a href="Linsonjude Naval Resume 2025.pdf">Link to resume - PDF<br>
 <img src="Resume Screenshot.JPG" alt="Screenshot of resume" width="500"></a><br>
 
-<div class="Projects" id="Projects">
+<div class="Projects" id="Projects" style="font-size:24px">
 <b>Projects</b><br>
 To be listed<br><br>
 </div>
 
-<div class="Awards and Publications" id="Awards and Publications">
+<div class="Awards and Publications" id="Awards and Publications" style="font-size:24px">
 <b>Awards and Publications</b><br>
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
@@ -32,7 +32,7 @@ BMJ Quality and Safety<br>
 <img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br>
 </div>
 
-<div class="Recommendations" id="Recommendations">
+<div class="Recommendations" id="Recommendations" style="font-size:24px">
 <b>Recommendations</b><br><br>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
@@ -59,7 +59,7 @@ Rachael Shapira
 Linson was excellent to work for. He was flexible and always focused on completing the work without burning out. He is always positive and willing to help figure out whatever is blocking the work or resolving a personal issue or things related to benefits. Linson is knowledgeable and quick to understand a technical problem or relate to a personal need.
 </div>
 
-<div class="Miscellaneous Projects" id="Miscellaneous Projects">
+<div class="Miscellaneous Projects" id="Miscellaneous Projects" style="font-size:18px">
 <b>Miscellaneous Projects</div</b>
 
 Wood work
