@@ -21,13 +21,13 @@ To be listed<br><br>
 </div>
 
 <div class="Awards and Publications" id="Awards and Publications" style="font-size:24px">
-<b>Awards and Publications</b><br>
+<h3><b>Awards and Publications</b></h3>h3><br><br>
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
-<img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br>
+<img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br><br>
 BMJ Quality and Safety<br>
-<img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br>
+<img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br><br>
 </div>
 
 <div class="Recommendations" id="Recommendations" style="font-size:24px">
