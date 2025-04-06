@@ -19,7 +19,8 @@ Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br>
 
 ### Publications
-BMJ Quality and Safety
+BMJ Quality and Safety<br>
+<img src="BMJ.jpg" alt="BMJ article screenshot" width="500"><br>
 
 ### Recommendations
 To be shared
