@@ -16,7 +16,7 @@ BA - University of Massachusetts at Amherst
 <img src="Resume Screenshot.JPG" alt="Screenshot of resume" width="500"></a><br>
 
 <div class="Projects" id="Projects" style="font-size:24px">
-<b>Projects</b><br>
+<h2><b>Projects</bh2><br>
 To be listed<br><br>
 </div>
 
