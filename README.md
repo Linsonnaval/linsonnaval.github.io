@@ -89,7 +89,7 @@ Television
 Photography<br>
 <img src="landscape.jpg" alt="landscape" width="500">
 
-"Running"<br>
-<img src="Newport.jog" alt="running" width="500">
+Jogging<br>
+<img src="Newport.jpg" alt="running" width="500">
 
 </div>
