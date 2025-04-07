@@ -21,14 +21,14 @@ BA - University of Massachusetts at Amherst
 
 <hr>
 
-<div class="Projects" id="Projects" style="font-size:24px">
+<div class="Projects" id="Projects">
 <h3>Projects</h3>
 To be listed<br><br>
 </div>
 
 <hr>
 
-<div class="Awards and Publications" id="Awards and Publications" style="font-size:24px">
+<div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
 Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
@@ -40,7 +40,7 @@ BMJ Quality and Safety<br>
 
 <hr>
 
-<div class="Recommendations" id="Recommendations" style="font-size:24px">
+<div class="Recommendations" id="Recommendations">
 <h3><b>Recommendations</b></h3><br>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
