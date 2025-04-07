@@ -4,7 +4,7 @@
     <a href="#Projects">▶ Jump to Projects section</a><br>
     <a href="#Awards and Publications">▶ Jump to Awards and Publications section</a><br>
     <a href="#Recommendations">▶ Jump to Recommendations section</a><br>
-    <a href="#Miscellaneous Projects">▶ Jump to Miscellaneous Projects section</a><br>
+    <a href="#Miscellaneous Projects">▶ Jump to Miscellaneous Projects section</a><br><br>
   </div>
 
 <hr>
@@ -45,7 +45,7 @@ BMJ Quality and Safety<br>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
-I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
+I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!<br><br>
 
 <b>Rachael Shapira - Product/Project Manager (reported to Linson)</b><br>
 
@@ -60,7 +60,7 @@ Linson also displays remarkable empathy and emotional intelligence in his leader
 Finally, Linson is an exceptional mentor and cheerleader for his team. This trait has been of benefit to our company because his encouragement helped many employees, including myself, exceed our goals and develop professionally. 
 
 Sincerely, 
-Rachael Shapira
+Rachael Shapira<br><br>
 
 <b>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</b><br><br>
 
