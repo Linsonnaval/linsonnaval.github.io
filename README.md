@@ -47,7 +47,7 @@ BMJ Quality and Safety<br>
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 
-<b>Rachael Shapira - Product/Project Manager (reported to Linson)</b><br><br>
+<b>Rachael Shapira - Product/Project Manager (reported to Linson)</b><br>
 
 To Whom It May Concern: 
 
@@ -76,7 +76,10 @@ Wood work
 
 Repairs
 
-Sewing
+Sewing<br>
+
+Hobbes, Jake and Tubby Nugget stuffies (hand sewn)
+<img src="stuffies.jpg" alt="stuffies" width="500">
 
 Softball
 
