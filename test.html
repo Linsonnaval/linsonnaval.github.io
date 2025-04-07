@@ -13,7 +13,7 @@
 
   <script>
     // JavaScript to fetch data from an API
-    fetch('https://jsonplaceholder.typicode.com/posts')  // URL of the API
+    fetch('https://api.eia.gov/category?api_key=YOUR_API_KEY_HERE&category_id=0')  // URL of the API
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
