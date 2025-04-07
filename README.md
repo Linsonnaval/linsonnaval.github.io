@@ -119,43 +119,40 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <!--ended weather coding here-->
 
 <!--start fun facts coding here-->
- <h1>Get a Random Fact</h1>
-  <button onclick="fetchFact()">Get New Fact</button>
+  <h1>Generate a Random Quote</h1>
+  <button onclick="fetchQuote()">Get New Quote</button>
 
-  <div id="fact-container">
-    <p id="fact-text">Click the button to get a random fact.</p>
+  <div id="quote-container">
+    <p id="quote-text">Click the button to get a random quote.</p>
   </div>
 
   <script>
-    function fetchFact() {
-      const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
-      const apiUrl = 'https://api.api-ninjas.com/api/facts';
+    function fetchQuote() {
+      const apiUrl = 'https://api.api-evangelist.com/fun/quote'; // API Endpoint
 
-      fetch(apiUrl, {
-        headers: {
-          'X-Api-Key': apiKey
-        }
-      })
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-      })
-      .then(data => {
-        if (data && data.length > 0 && data[0].fact) {
-          document.getElementById('fact-text').textContent = data[0].fact;
-        } else {
-          document.getElementById('fact-text').textContent = 'Failed to retrieve a fact.';
-        }
-      })
-      .catch(error => {
-        console.error('Error fetching fact:', error);
-        document.getElementById('fact-text').textContent = 'An error occurred while fetching the fact.';
-      });
+      fetch(apiUrl)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          return response.json();
+        })
+        .then(data => {
+          if (data && data.quote) {
+            document.getElementById('quote-text').textContent = data.quote;
+          } else {
+            document.getElementById('quote-text').textContent = 'Failed to retrieve a quote.';
+          }
+        })
+        .catch(error => {
+          console.error('Error fetching quote:', error);
+          document.getElementById('quote-text').textContent = 'An error occurred while fetching the quote.';
+        });
     }
   </script>
 
+<br><br>
+<hr>
 
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
