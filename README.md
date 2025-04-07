@@ -38,12 +38,8 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 
 <body> <div>
 
-Testing API for Boston weather
-
-  <h1>Weather in Boston</h1>
-
   <!-- Button to trigger weather fetch -->
-  <button onclick="getWeather()">Get Current Weather for Boston</button>
+  <center><button onclick="getWeather()">Get Current Weather for Boston - Fun with REST API</button></center>
 
   <!-- Where the weather info will be displayed -->
   <div id="output"></div>
