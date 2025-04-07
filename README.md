@@ -76,17 +76,17 @@ Linson was excellent to work for. He was flexible and always focused on completi
 Wood work
 
 Repairs
-<img src="Repair.jpg" alt="Car Repair" width="500">
+<img src="Repair.jpg" alt="Car Repair" width="500"><br>
 Replacing the power steering pump and rotted out lines to the pump. I got this car in 2008 and will do my best to keep it going for many more years. So far, replaced the steering pump, bumper, left tail light, side window seals and other little things.
 
 Sewing<br>
 
 Hobbes, Jake and Tubby Nugget stuffies (hand sewn)<br>
-<img src="Stuffies.jpg" alt="Stuffies" width="500">
+<img src="Stuffies.jpg" alt="Stuffies" width="500"><br>
 I made these for my kids. I get better with each iteration. But, the kids love them nevertheless.
 
 Softball<br>
-<img src="Softball.jpg" alt="Softball" width="500">
+<img src="Softball.jpg" alt="Softball" width="500"><br>
 Playing softball with the UMass Alumni team on the National Mall next to the Washington Monument.
 
 Television
