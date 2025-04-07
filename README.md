@@ -45,7 +45,6 @@ BMJ Quality and Safety<br>
 <h3><b>Recommendations</b></h3>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
-I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!<br><br>
 
 <b>Rachael Shapira - Product/Project Manager (reported to Linson)</b><br>
@@ -74,6 +73,7 @@ Linson was excellent to work for. He was flexible and always focused on completi
 <h3><b>Miscellaneous Projects</b></h3></div>
 
 Wood work
+<img src="Woodwork.jpg" alt="Woodwork" width="500"><br>
 
 Repairs<br>
 <img src="Repair.jpg" alt="Car Repair" width="500"><br>
