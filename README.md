@@ -112,7 +112,7 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 </body>
 
 <hr>
-<!--ended weather coding here>
+<!--ended weather coding here-->
 
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
