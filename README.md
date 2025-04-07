@@ -33,11 +33,11 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
-Deloitte Collaboration Award<br>
+<i>Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br><br>
-BMJ Quality and Safety<br>
+BMJ Quality and Safety</i><br>
 <img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br><br>
 </div>
 
@@ -46,11 +46,11 @@ BMJ Quality and Safety<br>
 <div class="Recommendations" id="Recommendations">
   
 <h3><b>Recommendations</b></h3>
-<b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
+<b><i></i>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b>i></b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!<br><br>
 
-<b>Rachael Shapira - Product/Project Manager (reported to Linson)</b><br>
+<b><i>Rachael Shapira - Product/Project Manager (reported to Linson)</i></b><br>
 
 To Whom It May Concern: 
 
@@ -65,7 +65,7 @@ Finally, Linson is an exceptional mentor and cheerleader for his team. This trai
 Sincerely, 
 Rachael Shapira<br><br>
 
-<b>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</b><br><br>
+<b><i>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</i></b><br><br>
 
 Linson was excellent to work for. He was flexible and always focused on completing the work without burning out. He is always positive and willing to help figure out whatever is blocking the work or resolving a personal issue or things related to benefits. Linson is knowledgeable and quick to understand a technical problem or relate to a personal need.
 </div>
