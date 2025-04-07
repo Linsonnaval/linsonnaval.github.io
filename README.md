@@ -83,6 +83,7 @@ Softball
 Television
 
 Photography
+<img src="landscape.jpg" alt="landscape" width="500">
 
 </div>
 
