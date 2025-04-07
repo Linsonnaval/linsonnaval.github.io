@@ -1,10 +1,10 @@
 <h3>Linsonjude "Linson" Naval</h3>
 <h3>Program and Project Manager</h3>
   <div class="nav"><br>
-    <a href="#Projects">~Jump to Projects section</a><br>
-    <a href="#Awards and Publications">~Jump to Awards and Publications section</a><br>
-    <a href="#Recommendations">~Jump to Recommendations section</a><br>
-    <a href="#Miscellaneous Projects">~Jump to Miscellaneous Projects section</a><br>
+    <a href="#Projects">▶ Jump to Projects section</a><br>
+    <a href="#Awards and Publications">▶ Jump to Awards and Publications section</a><br>
+    <a href="#Recommendations">▶ Jump to Recommendations section</a><br>
+    <a href="#Miscellaneous Projects">▶ Jump to Miscellaneous Projects section</a><br>
   </div>
 
 <hr>
