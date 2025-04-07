@@ -27,7 +27,6 @@ BA - University of Massachusetts at Amherst
 <img src="Presentation.JPG" alt="Presentation" width="500"></a><br>
 Our hackathon team was trying to leverage computer vision data to provide machine learning to a model in which cameras could identify chickens sick (avian flu or other aliments).  
 <br><br>
-</div>
 
 <!--started weather coding here>
 <hr><br>
@@ -35,6 +34,8 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 Testing API for Boston weather
 
   <h1>Weather in Boston</h1>
+
+</div><!--putting div here to get text headers present on page-->
 
 <body>
   <!-- Button to trigger weather fetch -->
@@ -121,8 +122,8 @@ Testing API for Boston weather
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br><br>
-BMJ Quality and Safety</i><br>
-<img src="BMJ.JPG" alt="BMJ article screenshot" width="500"><br><br>
+<a href=https://qualitysafety.bmj.com/content/25/12/993.1>BMJ Quality and Safety</i><br>
+<img src="BMJ.JPG" alt="BMJ article screenshot" width="500"></a><br><br>
 </div>
 
 <hr>
