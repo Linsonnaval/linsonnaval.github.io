@@ -29,7 +29,90 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <br><br>
 </div>
 
+<!--started weather coding here>
 <hr>
+
+<body>
+  <h1>Weather in Boston, MA</h1>
+
+  <!-- Button to trigger weather fetch -->
+  <button onclick="getWeather()">Get Current Weather</button>
+
+  <!-- Where the weather info will be displayed -->
+  <div id="output"></div>
+
+  <script>
+    // Convert weather code to a human-readable description
+    function getWeatherDescription(code) {
+      const codes = {
+        0: "Clear sky",
+        1: "Mainly clear",
+        2: "Partly cloudy",
+        3: "Overcast",
+        45: "Fog",
+        48: "Depositing rime fog",
+        51: "Light drizzle",
+        53: "Moderate drizzle",
+        55: "Dense drizzle",
+        56: "Light freezing drizzle",
+        57: "Dense freezing drizzle",
+        61: "Slight rain",
+        63: "Moderate rain",
+        65: "Heavy rain",
+        66: "Light freezing rain",
+        67: "Heavy freezing rain",
+        71: "Slight snowfall",
+        73: "Moderate snowfall",
+        75: "Heavy snowfall",
+        77: "Snow grains",
+        80: "Slight rain showers",
+        81: "Moderate rain showers",
+        82: "Violent rain showers",
+        85: "Slight snow showers",
+        86: "Heavy snow showers",
+        95: "Thunderstorm",
+        96: "Thunderstorm with slight hail",
+        99: "Thunderstorm with heavy hail"
+      };
+
+      // Return the matching description or fallback
+      return codes[code] || "Unknown weather condition";
+    }
+
+    // Main function to fetch and display weather
+    async function getWeather() {
+      try {
+        // 1. Build the API request URL with Boston coordinates, Fahrenheit, and mph
+        const url = 'https://api.open-meteo.com/v1/forecast?latitude=42.3601&longitude=-71.0589&current_weather=true&temperature_unit=fahrenheit&windspeed_unit=mph';
+
+        // 2. Send request to Open-Meteo
+        const response = await fetch(url);
+
+        // 3. Parse the JSON response
+        const data = await response.json();
+        const weather = data.current_weather;
+
+        // 4. Convert the weather code to text
+        const description = getWeatherDescription(weather.weathercode);
+
+        // 5. Display the weather info on the page
+        document.getElementById('output').innerHTML = `
+          <p><strong>Temperature:</strong> ${weather.temperature} °F</p>
+          <p><strong>Wind Speed:</strong> ${weather.windspeed} mph</p>
+          <p><strong>Conditions:</strong> ${description} (code ${weather.weathercode})</p>
+          <p><strong>Time:</strong> ${weather.time}</p>
+        `;
+      } catch (error) {
+        // Handle any errors (like network issues)
+        console.error('Error:', error);
+        document.getElementById('output').textContent = 'Could not fetch weather data.';
+      }
+    }
+  </script>
+</body>
+
+<hr>
+<!--ended weather coding here>
 
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
