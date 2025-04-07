@@ -30,13 +30,15 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 </div>
 
 <!--started weather coding here>
-<hr>
+<hr><br>
+
+Testing API for Boston weather
 
 <body>
-  <h1>Weather in Boston, MA</h1>
+  <h1>Weather in Boston</h1>
 
   <!-- Button to trigger weather fetch -->
-  <button onclick="getWeather()">Get Current Weather</button>
+  <button onclick="getWeather()">Get Current Weather for Boston</button>
 
   <!-- Where the weather info will be displayed -->
   <div id="output"></div>
@@ -109,7 +111,6 @@ Our hackathon team was trying to leverage computer vision data to provide machin
       }
     }
   </script>
-</body>
 
 <hr>
 <!--ended weather coding here-->
