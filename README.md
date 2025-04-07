@@ -24,7 +24,7 @@ BA - University of Massachusetts at Amherst
 <div class="Projects" id="Projects">
 <h3>Projects</h3>
 
-Note: Due to sensitive nature of many of my work projects (federal government - public trust), only some informal work projects shown at the moment.
+<i>Note: Due to sensitive nature of many of my work projects (federal government - public trust), only some informal work projects shown at the moment.</i><br><br>
 
 <b>Northeastern AI Hackathon</b><br>
 <a href="YOLO for Bird Flu Detection in Chickens.pptx">Link to Presentation<br>
@@ -35,8 +35,6 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 </div>
 
 <hr>
-
-<br>
 
 <b>Sample REST API</b>
 
