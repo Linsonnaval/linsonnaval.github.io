@@ -23,7 +23,10 @@ BA - University of Massachusetts at Amherst
 
 <div class="Projects" id="Projects">
 <h3>Projects</h3>
-To be listed<br><br>
+<a href="YOLO for Bird Flu Detection in Chickens.pptx">Link to Presentation<br>
+<img src="Presentation.JPG" alt="Presentation" width="500"></a><br>
+Our hackathon team was trying to leverage computer vision data to provide machine learning to a model in which cameras could identify chickens sick (avian flu or other aliments).  
+<br><br>
 </div>
 
 <hr>
