@@ -127,24 +127,56 @@ Our hackathon team was trying to leverage computer vision data to provide machin
   <!-- Where the fact info will be displayed -->
   <div id="output"></div>
 
-  <script>
+<title>Random Fact</title>
+<style>
+  #fact-container {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: sans-serif;
+  }
+</style>
+</head>
+<body>
 
-var limit = 3;
-$.ajax({
-    method: 'GET',
-    url: 'https://api.api-ninjas.com/v1/facts?limit=' + limit,
-    headers: { 'X-Api-Key': 'YOUR_API_KEY'},
-    contentType: 'application/json',
-    success: function(result) {
-        console.log(result);
-    },
-    error: function ajaxError(jqXHR) {
-        console.error('Error: ', jqXHR.responseText);
-    }
-});
-      }
+  <h1>Get a Random Fact</h1>
+  <button onclick="fetchFact()">Get New Fact</button>
+
+  <div id="fact-container">
+    <p id="fact-text">Click the button to get a random fact.</p>
+  </div>
+
+  <script>
+    function fetchFact() {
+      const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
+      const apiUrl = 'https://api.api-ninjas.com/api/facts';
+
+      fetch(apiUrl, {
+        headers: {
+          'X-Api-Key': apiKey
+        }
+      })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then(data => {
+        if (data && data.length > 0 && data[0].fact) {
+          document.getElementById('fact-text').textContent = data[0].fact;
+        } else {
+          document.getElementById('fact-text').textContent = 'Failed to retrieve a fact.';
+        }
+      })
+      .catch(error => {
+        console.error('Error fetching fact:', error);
+        document.getElementById('fact-text').textContent = 'An error occurred while fetching the fact.';
+      });
     }
   </script>
+
 
 
 
