@@ -79,7 +79,7 @@ Repairs
 Sewing<br>
 
 Hobbes, Jake and Tubby Nugget stuffies (hand sewn)
-<img src="stuffies.jpg" alt="stuffies" width="500">
+<img src="Stuffies.jpg" alt="Stuffies" width="500">
 
 Softball
 
