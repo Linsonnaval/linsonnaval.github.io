@@ -113,34 +113,13 @@ Our hackathon team was trying to leverage computer vision data to provide machin
     }
   </script>
 
-<br>
+<br><br>
 
 <hr>
 <!--ended weather coding here-->
 
 <!--start fun facts coding here-->
-<body> <div>
-
-  <!-- Button to trigger fact fetch -->
-  <center><button onclick="getWeather()">Want to know a fun fact??</button></center>
-
-  <!-- Where the fact info will be displayed -->
-  <div id="output"></div>
-
-<title>Random Fact</title>
-<style>
-  #fact-container {
-    margin-top: 20px;
-    padding: 15px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-family: sans-serif;
-  }
-</style>
-</head>
-<body>
-
-  <h1>Get a Random Fact</h1>
+ <h1>Get a Random Fact</h1>
   <button onclick="fetchFact()">Get New Fact</button>
 
   <div id="fact-container">
@@ -176,8 +155,6 @@ Our hackathon team was trying to leverage computer vision data to provide machin
       });
     }
   </script>
-
-
 
 
 <div class="Awards and Publications" id="Awards and Publications">
