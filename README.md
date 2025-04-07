@@ -34,9 +34,9 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 
 Testing API for Boston weather
 
-<body>
   <h1>Weather in Boston</h1>
 
+<body>
   <!-- Button to trigger weather fetch -->
   <button onclick="getWeather()">Get Current Weather for Boston</button>
 
