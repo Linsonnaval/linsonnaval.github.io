@@ -72,32 +72,31 @@ Linson was excellent to work for. He was flexible and always focused on completi
 <div class="Miscellaneous Projects" id="Miscellaneous Projects">
 <h3><b>Miscellaneous Projects</b></h3></div>
 
-Wood work<br>
-<img src="Woodwork.jpg" alt="Woodwork" width="500"><br>
-Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engraving.
-
-Repairs<br>
+<i>Repairs</i><br>
 <img src="Repair.jpg" alt="Car Repair" width="500"><br>
 Replacing the power steering pump and rotted out lines to the pump. I got this car in 2008 and will do my best to keep it going for many more years. So far, replaced the steering pump, bumper, left tail light, side window seals and other little things.<br><br>
 
-Sewing<br>
-
+<i>Sewing</i><br>
 Hobbes, Jake and Tubby Nugget stuffies (hand sewn)<br>
 <img src="Stuffies.jpg" alt="Stuffies" width="500"><br>
 I made these for my kids. I get better with each iteration. But, the kids love them nevertheless.<br><br>
 
-Softball<br>
+<i>Softball</i><br>
 <img src="Softball.jpg" alt="Softball" width="500"><br>
 Playing softball with the UMass Alumni team on the National Mall next to the Washington Monument.<br><br>
 
-Television<br>
-<img src="Television.jpg" alt="Appearance on television" width="500"><br>
-On regional television channel (NESN) to ask a question to the Red Sox General Manager. I asked him how much decisionmaking on player performance is done with analytics and how much is done with scouting. He deftly deflected.<br><br>
+<i>Wood work</i><br>
+<img src="Woodwork.jpg" alt="Woodwork" width="500"><br>
+Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engraving.
 
-Photography<br>
+<i>Jogging</i><br>
+<img src="Newport.jpg" alt="running" width="500"><br><br>
+
+<i>Photography</i><br>
 <img src="landscape.jpg" alt="landscape" width="500"><br><br>
 
-Jogging<br>
-<img src="Newport.jpg" alt="running" width="500"><br><br>
+<i>Television</i><br>
+<img src="Television.jpg" alt="Appearance on television" width="500"><br>
+On regional television channel (NESN) to ask a question to the Red Sox General Manager. I asked him how much decisionmaking on player performance is done with analytics and how much is done with scouting. He deftly deflected.<br><br>
 
 </div>
