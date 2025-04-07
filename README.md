@@ -128,16 +128,15 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br><br>
-<a href="https://qualitysafety.bmj.com/content/25/12/993.1">BMJ Quality and Safety</i><br>
+<a href="https://qualitysafety.bmj.com/content/25/12/993.1"><i>BMJ Quality and Safety</i><br>
 <img src="BMJ.JPG" alt="BMJ article screenshot" width="500"></a><br><br>
-</div>
 
 <hr>
 
 <div class="Recommendations" id="Recommendations">
   
 <h3><b>Recommendations</b></h3>
-<b><i></i>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b>i></b><br>
+<b><i></i>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!<br><br>
 
