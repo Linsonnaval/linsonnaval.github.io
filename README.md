@@ -25,7 +25,8 @@ BA - University of Massachusetts at Amherst
 <h3>Projects</h3>
 
 Note: Due to sensitive nature of many of my work projects (federal government - public trust), only some informal work projects shown at the moment.
-  
+
+<b>Northeastern AI Hackathon</b>
 <a href="YOLO for Bird Flu Detection in Chickens.pptx">Link to Presentation<br>
 <img src="Presentation.JPG" alt="Presentation" width="500"></a><br>
 Our hackathon team was trying to leverage computer vision data to provide machine learning to a model in which cameras could identify chickens sick (avian flu or other aliments).  
@@ -36,6 +37,8 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <hr>
 
 <br>
+
+<b>Sample REST API</b>
 
 <!--started weather coding here, got help from chatgpt but learned from it and updated on my own-->
 
