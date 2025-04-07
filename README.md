@@ -41,6 +41,7 @@ BMJ Quality and Safety<br>
 <hr>
 
 <div class="Recommendations" id="Recommendations">
+  
 <h3><b>Recommendations</b></h3><br>
 <b>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
@@ -69,7 +70,7 @@ Linson was excellent to work for. He was flexible and always focused on completi
 
 <hr>
 
-<div class="Miscellaneous Projects" id="Miscellaneous Projects" style="font-size:18px">
+<div class="Miscellaneous Projects" id="Miscellaneous Projects">
 <h3><b>Miscellaneous Projects</b></h3></div>
 
 Wood work
