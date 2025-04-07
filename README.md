@@ -28,16 +28,20 @@ BA - University of Massachusetts at Amherst
 Our hackathon team was trying to leverage computer vision data to provide machine learning to a model in which cameras could identify chickens sick (avian flu or other aliments).  
 <br><br>
 
+</div>
+
+<hr>
+
+<br>
+
 <!--started weather coding here>
-<hr><br>
+
+<body> <div>
 
 Testing API for Boston weather
 
   <h1>Weather in Boston</h1>
 
-</div><!--putting div here to get text headers present on page-->
-
-<body>
   <!-- Button to trigger weather fetch -->
   <button onclick="getWeather()">Get Current Weather for Boston</button>
 
@@ -113,6 +117,8 @@ Testing API for Boston weather
     }
   </script>
 
+<br>
+
 <hr>
 <!--ended weather coding here-->
 
@@ -122,7 +128,7 @@ Testing API for Boston weather
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
 Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br><br>
-<a href=https://qualitysafety.bmj.com/content/25/12/993.1>BMJ Quality and Safety</i><br>
+<a href="https://qualitysafety.bmj.com/content/25/12/993.1">BMJ Quality and Safety</i><br>
 <img src="BMJ.JPG" alt="BMJ article screenshot" width="500"></a><br><br>
 </div>
 
