@@ -34,7 +34,7 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 
 <br>
 
-<!--started weather coding here>
+<!--started weather coding here, got help from chatgpt but learned from it and updated on my own-->
 
 <body> <div>
 
@@ -113,7 +113,7 @@ Our hackathon team was trying to leverage computer vision data to provide machin
     }
   </script>
 
-<br><br>
+<br>
 
 <hr>
 <!--ended weather coding here-->
