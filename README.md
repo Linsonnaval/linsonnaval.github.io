@@ -82,8 +82,11 @@ Softball
 
 Television
 
-Photography
+Photography<br>
 <img src="landscape.jpg" alt="landscape" width="500">
+
+"Running"<br>
+
 
 </div>
 
