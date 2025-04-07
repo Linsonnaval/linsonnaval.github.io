@@ -118,42 +118,6 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <hr>
 <!--ended weather coding here-->
 
-<!--start fun facts coding here-->
-  <h1>Generate a Random Quote</h1>
-  <button onclick="fetchQuote()">Get New Quote</button>
-
-  <div id="quote-container">
-    <p id="quote-text">Click the button to get a random quote.</p>
-  </div>
-
-  <script>
-    function fetchQuote() {
-      const apiUrl = 'https://api.api-evangelist.com/fun/quote'; // API Endpoint
-
-      fetch(apiUrl)
-        .then(response => {
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          return response.json();
-        })
-        .then(data => {
-          if (data && data.quote) {
-            document.getElementById('quote-text').textContent = data.quote;
-          } else {
-            document.getElementById('quote-text').textContent = 'Failed to retrieve a quote.';
-          }
-        })
-        .catch(error => {
-          console.error('Error fetching quote:', error);
-          document.getElementById('quote-text').textContent = 'An error occurred while fetching the quote.';
-        });
-    }
-  </script>
-
-<br><br>
-<hr>
-
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
 <i>Deloitte Collaboration Award<br>
