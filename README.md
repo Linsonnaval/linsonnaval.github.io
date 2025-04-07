@@ -180,7 +180,7 @@ Playing softball with the UMass Alumni team on the National Mall next to the Was
 
 <i>Wood work</i><br>
 <img src="Woodwork.jpg" alt="Woodwork" width="500"><br>
-Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engraving.
+Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engraving.<br><br>
 
 <i>Jogging</i><br>
 <img src="Newport.jpg" alt="running" width="500"><br><br>
