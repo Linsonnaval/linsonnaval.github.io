@@ -72,8 +72,9 @@ Linson was excellent to work for. He was flexible and always focused on completi
 <div class="Miscellaneous Projects" id="Miscellaneous Projects">
 <h3><b>Miscellaneous Projects</b></h3></div>
 
-Wood work
+Wood work<br>
 <img src="Woodwork.jpg" alt="Woodwork" width="500"><br>
+Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engraving.
 
 Repairs<br>
 <img src="Repair.jpg" alt="Car Repair" width="500"><br>
