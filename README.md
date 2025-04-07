@@ -101,5 +101,3 @@ Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engra
 <i>Television</i><br>
 <img src="Television.jpg" alt="Appearance on television" width="500"><br>
 On regional television channel (NESN) to ask a question to the Red Sox General Manager. I asked him how much decisionmaking on player performance is done with analytics and how much is done with scouting. He deftly deflected.<br><br>
-
-</div>
