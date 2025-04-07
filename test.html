@@ -1,10 +1,38 @@
-<html>
-Testing this out
-    
-<script>
-    fetch('https://jsonplaceholder.typicode.com/comments?postId=1').then(response=>{
-    //do something with response!
-});
-</script>
-  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API Fetch Example</title>
+</head>
+<body>
+  <h1>API Data Fetch</h1>
+  <div id="data-container">
+    <!-- Data from API will be displayed here -->
+  </div>
+
+  <script>
+    // JavaScript to fetch data from an API
+    fetch('https://jsonplaceholder.typicode.com/posts')  // URL of the API
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();  // Parse the JSON data
+      })
+      .then(data => {
+        // Process and display the data
+        const container = document.getElementById('data-container');
+        data.forEach(item => {
+          const postElement = document.createElement('div');
+          postElement.innerHTML = `<h2>${item.title}</h2><p>${item.body}</p>`;
+          container.appendChild(postElement);
+        });
+      })
+      .catch(error => {
+        // Handle any errors that occur during the fetch
+        console.error('There was a problem with the fetch operation:', error);
+      });
+  </script>
+</body>
 </html>
