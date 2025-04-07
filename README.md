@@ -118,6 +118,36 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <hr>
 <!--ended weather coding here-->
 
+<!--start fun facts coding here-->
+<body> <div>
+
+  <!-- Button to trigger fact fetch -->
+  <center><button onclick="getWeather()">Want to know a fun fact??</button></center>
+
+  <!-- Where the fact info will be displayed -->
+  <div id="output"></div>
+
+  <script>
+
+var limit = 3;
+$.ajax({
+    method: 'GET',
+    url: 'https://api.api-ninjas.com/v1/facts?limit=' + limit,
+    headers: { 'X-Api-Key': 'YOUR_API_KEY'},
+    contentType: 'application/json',
+    success: function(result) {
+        console.log(result);
+    },
+    error: function ajaxError(jqXHR) {
+        console.error('Error: ', jqXHR.responseText);
+    }
+});
+      }
+    }
+  </script>
+
+
+
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
 <i>Deloitte Collaboration Award<br>
