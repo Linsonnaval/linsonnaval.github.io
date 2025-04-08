@@ -1,6 +1,6 @@
 <h3>Linsonjude "Linson" Naval</h3>
 <h3>Program and Project Manager</h3>
-  <div class="nav"><br>
+  <div class="nav">
     <a href="#Projects">▶ Jump to Projects section</a><br>
     <a href="#Awards and Publications">▶ Jump to Awards and Publications section</a><br>
     <a href="#Recommendations">▶ Jump to Recommendations section</a><br>
@@ -117,8 +117,6 @@ Our hackathon team was trying to leverage computer vision data to provide machin
     }
   </script>
 
-<br><br>
-
 <hr>
 <!--ended weather coding here-->
 
@@ -170,9 +168,8 @@ Linson was excellent to work for. He was flexible and always focused on completi
 Replacing the power steering pump and rotted out lines to the pump. I got this car in 2008 and will do my best to keep it going for many more years. So far, replaced the steering pump, bumper, left tail light, side window seals and other little things.<br><br>
 
 <i>Sewing</i><br>
-Hobbes, Jake and Tubby Nugget stuffies (hand sewn)<br>
 <img src="Stuffies.jpg" alt="Stuffies" width="500"><br>
-I made these for my kids. I get better with each iteration. But, the kids love them nevertheless.<br><br>
+Hobbes, Jake and Tubby Nugget stuffies (hand sewn). I made these for my kids. I get better with each iteration. But, the kids love them nevertheless.<br><br>
 
 <i>Softball</i><br>
 <img src="Softball.jpg" alt="Softball" width="500"><br>
