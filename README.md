@@ -23,7 +23,6 @@
 
 <div class="Projects" id="Projects">
 <h3>Projects</h3>
-
 <i>Note: Due to sensitive nature of many of my work projects (federal government - public trust), only some informal work projects shown at the moment.</i><br><br>
 
 <b>• Northeastern AI Hackathon</b><br>
@@ -116,7 +115,7 @@ Our hackathon team was trying to leverage computer vision data to provide machin
       }
     }
   </script>
-
+<br>
 <hr>
 <!--ended weather coding here-->
 
