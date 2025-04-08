@@ -10,8 +10,8 @@
 <hr>
 
 <h3>Education</h3>
-MBA - Northeastern University<br>
-BA - University of Massachusetts at Amherst
+• MBA - Northeastern University<br>
+• BA - University of Massachusetts at Amherst
 
 <hr>
 
@@ -26,7 +26,7 @@ BA - University of Massachusetts at Amherst
 
 <p><i>Note: Due to sensitive nature of many of my work projects (federal government - public trust), only some informal work projects shown at the moment.</i><br><br>
 
-<b>Northeastern AI Hackathon</b><br></p>
+<b>• Northeastern AI Hackathon</b><br></p>
 <a href="YOLO for Bird Flu Detection in Chickens.pptx">Link to Presentation<br>
 <img src="Presentation.JPG" alt="Presentation" width="500"></a><br>
 Our hackathon team was trying to leverage computer vision data to provide machine learning to a model in which cameras could identify chickens sick (avian flu or other aliments).  
@@ -36,7 +36,7 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 
 <hr>
 
-<b>Sample REST API</b>
+<b>• Sample REST API</b>
 
 <!--started weather coding here, got help from chatgpt but learned from it and updated on my own-->
 
@@ -122,11 +122,11 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
-<i>Deloitte Collaboration Award<br>
+<i>• Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
-Department of Energy Recovery Act<br>
+• Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br><br>
-<a href="https://qualitysafety.bmj.com/content/25/12/993.1"><i>BMJ Quality and Safety</i><br>
+<a href="https://qualitysafety.bmj.com/content/25/12/993.1"><i>• BMJ Quality and Safety</i><br>
 <img src="BMJ.JPG" alt="BMJ article screenshot" width="500"></a><br><br>
 
 <hr>
@@ -134,11 +134,11 @@ Department of Energy Recovery Act<br>
 <div class="Recommendations" id="Recommendations">
   
 <h3><b>Recommendations</b></h3>
-<b><i></i>Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
+<b><i></i>• Garrett Kephart - CEO and Co-Founder @ Earth Finance (Garrett managed Linson)</b><br>
 
 I worked closely with Linson for 4 years during our time consulting to the U.S. Department of Energy (DOE). He is a proven delivery and sales leader with exceptional maturity and integrity. Linson is thoughtful, empathetic, and highly analytical. He makes extra effort to establish personal connections with his superiors, peers, and customers. You want something done right that exceeds expectations? Linson is the guy - I highly recommend him!!<br><br>
 
-<b><i>Rachael Shapira - Product/Project Manager (reported to Linson)</i></b><br>
+<b><i>• Rachael Shapira - Product/Project Manager (reported to Linson)</i></b><br>
 
 To Whom It May Concern: 
 
@@ -153,7 +153,7 @@ Finally, Linson is an exceptional mentor and cheerleader for his team. This trai
 Sincerely, 
 Rachael Shapira<br><br>
 
-<b><i>Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</i></b><br><br>
+<b><i>• Steven Hovland - Staff Software Engineer at Ad Hoc (reported to Linson)</i></b><br><br>
 
 Linson was excellent to work for. He was flexible and always focused on completing the work without burning out. He is always positive and willing to help figure out whatever is blocking the work or resolving a personal issue or things related to benefits. Linson is knowledgeable and quick to understand a technical problem or relate to a personal need.
 </div>
@@ -163,25 +163,25 @@ Linson was excellent to work for. He was flexible and always focused on completi
 <div class="Miscellaneous Projects" id="Miscellaneous Projects">
 <h3><b>Miscellaneous Projects</b></h3></div>
 
-<i>Auto Work and Repairs</i><br>
+<i>• Auto Work and Repairs</i><br>
 <img src="Repair.jpg" alt="Car Repair" width="500"><br>
 Replacing the power steering pump and rotted out lines to the pump. I got this car in 2008 and will do my best to keep it going for many more years. So far, replaced the steering pump, bumper, left tail light, side window seals and other little things.<br><br>
 
-<i>Sewing</i><br>
+<i>• Sewing</i><br>
 <img src="Stuffies.jpg" alt="Stuffies" width="500"><br>
 Hobbes, Jake and Tubby Nugget stuffies (hand sewn): I made these for my kids. I get better with each iteration. But, the kids love them nevertheless.<br><br>
 
-<i>Softball</i><br>
+<i>• Softball</i><br>
 <img src="Softball.jpg" alt="Softball" width="500"><br>
 Playing softball with the UMass Alumni team on the National Mall next to the Washington Monument.<br><br>
 
-<i>Wood Work</i><br>
+<i>• Wood Work</i><br>
 <img src="Woodwork.jpg" alt="Woodwork" width="500"><br>
 Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engraving.<br><br>
 
-<i>Jogging</i><br>
+<i>• Jogging</i><br>
 <img src="Newport.jpg" alt="running" width="500"><br><br>
 
-<i>Photography</i><br>
+<i>• Photography</i><br>
 <img src="landscape.jpg" alt="landscape" width="500"><br><br>
 
