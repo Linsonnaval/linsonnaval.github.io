@@ -28,7 +28,7 @@
 <b>• Northeastern AI Hackathon</b><br>
 <a href="YOLO for Bird Flu Detection in Chickens.pptx (1).pdf">Link to Presentation - PDF<br>
 <img src="Presentation.JPG" alt="Presentation" width="500"></a><br>
-Our hackathon team was trying to leverage computer vision data to provide machine learning to a model in which cameras could identify chickens sick (avian flu or other aliments).  
+Our hackathon team was trying to leverage computer vision data to provide machine learning to a model in which cameras could identify sick chickens (avian flu or other ailment).  
 <br><br>
 
 </div>
