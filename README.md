@@ -118,7 +118,7 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <!--ended weather coding here-->
 
 <div class="Awards and Publications" id="Awards and Publications">
-<h3><b>Awards and Publications</b></h3><br>
+<h3><b>Awards and Publications</b></h3>
 <i>• Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="250"><br><br>
 • Department of Energy Recovery Act<br>
