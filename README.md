@@ -123,8 +123,8 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="250"><br><br>
 • Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="250"><br><br>
-<a href="https://qualitysafety.bmj.com/content/25/12/993.1"><i>• BMJ Quality and Safety</i><br>
-<img src="BMJ.JPG" alt="BMJ article screenshot" width="250"></a><br><br>
+<a href="https://qualitysafety.bmj.com/content/25/12/993.1"><i>• BMJ Quality and Safety (Publication)</i><br>
+<img src="BMJ.JPG" alt="BMJ article screenshot" width="500"></a><br><br>
 
 <hr>
 
@@ -165,19 +165,19 @@ Linson was excellent to work for. He was flexible and always focused on completi
 Replacing the power steering pump and rotted out lines to the pump. I got this car in 2008 and will do my best to keep it going for many more years. So far, replaced the steering pump, bumper, left tail light, side window seals and other little things.<br><br>
 
 <i>• Sewing</i><br>
-<img src="Stuffies.jpg" alt="Stuffies" width="500"><br>
+<img src="Stuffies.jpg" alt="Stuffies" width="250"><br>
 Hobbes, Jake and Tubby Nugget stuffies (hand sewn): I made these for my kids. I get better with each iteration. But, the kids love them nevertheless.<br><br>
 
 <i>• Softball</i><br>
-<img src="Softball.jpg" alt="Softball" width="500"><br>
+<img src="Softball.jpg" alt="Softball" width="250"><br>
 Playing softball with the UMass Alumni team on the National Mall next to the Washington Monument.<br><br>
 
 <i>• Wood Work</i><br>
-<img src="Woodwork.jpg" alt="Woodwork" width="500"><br>
+<img src="Woodwork.jpg" alt="Woodwork" width="250"><br>
 Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engraving.<br><br>
 
 <i>• Jogging</i><br>
-<img src="Newport.jpg" alt="running" width="500"><br><br>
+<img src="Newport.jpg" alt="running" width="250"><br><br>
 
 <i>• Photography</i><br>
 <img src="landscape.jpg" alt="landscape" width="500"><br><br>
