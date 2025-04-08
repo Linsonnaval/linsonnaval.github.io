@@ -33,8 +33,6 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 
 </div>
 
-<hr>
-
 <b>• Sample REST API</b>
 
 <!--started weather coding here, got help from chatgpt but learned from it and updated on my own-->
