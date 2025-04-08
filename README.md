@@ -120,11 +120,11 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <div class="Awards and Publications" id="Awards and Publications">
 <h3><b>Awards and Publications</b></h3><br>
 <i>• Deloitte Collaboration Award<br>
-<img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="500"><br><br>
+<img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="250"><br><br>
 • Department of Energy Recovery Act<br>
-<img src="DOE.jpg" alt="Recovery Act recognition" width="500"><br><br>
+<img src="DOE.jpg" alt="Recovery Act recognition" width="250"><br><br>
 <a href="https://qualitysafety.bmj.com/content/25/12/993.1"><i>• BMJ Quality and Safety</i><br>
-<img src="BMJ.JPG" alt="BMJ article screenshot" width="500"></a><br><br>
+<img src="BMJ.JPG" alt="BMJ article screenshot" width="250"></a><br><br>
 
 <hr>
 
