@@ -184,3 +184,5 @@ Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engra
 <i>• Photography</i><br>
 <img src="landscape.jpg" alt="landscape" width="500"><br><br>
 
+Change Log:
+4/12/2025: Shared on LinkedIn post for feedback/comments
