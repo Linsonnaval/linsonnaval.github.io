@@ -121,6 +121,8 @@ Our hackathon team was trying to leverage computer vision data to provide machin
 <h3><b>Awards and Publications</b></h3>
 <i>• Deloitte Collaboration Award<br>
 <img src="Screenshot_20250312_152957.jpg" alt="Collaboration Award" width="250"><br><br>
+• Department of Energy CFO Diamond Award<br>
+<img src="CFO.JPG" alt="CFO Award" width="250"><br><br>
 • Department of Energy Recovery Act<br>
 <img src="DOE.jpg" alt="Recovery Act recognition" width="250"><br><br>
 <a href="https://qualitysafety.bmj.com/content/25/12/993.1"><i>• BMJ Quality and Safety (Publication)</i><br>
