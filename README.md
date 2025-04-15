@@ -184,9 +184,9 @@ Made a wooden memory box for my in-laws' anniversary. Felt liner and laser engra
 <i>• Photography</i><br>
 <img src="landscape.jpg" alt="landscape" width="500"><br><br>
 <img src="capitol.jpg" alt="US Capitol" width="500"><br><br>
-<img src="alaska.jpg" alt="Alaska" width="500"><br><br>
 <img src="boston.jpg" alt="Boston" width="500"><br><br>
+<img src="alaska.jpg" alt="Alaska" width="500"><br><br>
 
 Change Log:<br>
 4/12/2025: Shared on LinkedIn post for feedback/comments<br>
-4/14/2025: Added more photography photos
+4/15/2025: Added more photography photos
